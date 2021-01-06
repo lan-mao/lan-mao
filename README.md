@@ -1,7 +1,5 @@
 ### Hi there 👋
-有兴趣看看我的博客嘛(ﾉ*･ω･)ﾉ [blog.lan-mao.top](https://blog.lan-mao.top)
-
-<https://blog.lan-mao.top>
+这里是我的博客(ﾉ*･ω･)ﾉ  <https://blog.lan-mao.top>
 
 <!--
 **lan-mao/lan-mao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
